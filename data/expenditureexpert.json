@@ -1,6 +1,5 @@
 {
-  "expenses": [
-    {
+  "expenses": [{
       "description": "Took Grab",
       "expenseCategory": "Travel",
       "amount": "10"
