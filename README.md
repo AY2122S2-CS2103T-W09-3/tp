@@ -21,6 +21,6 @@
 
 ## Acknowledgements
 
-_This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
+_This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org)._
 
 Application logo : _To be added_

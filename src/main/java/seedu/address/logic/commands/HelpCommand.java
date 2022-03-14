@@ -22,14 +22,10 @@ public class HelpCommand extends Command {
      * @return String for the help command.
      */
     public static String helpCommandString() {
-        HELP_STRING.append(HelpWindow.HELP_MESSAGE).append("\n");
-        HELP_STRING.append("COMMANDS").append("\n").append("\n").append(AddCommand.MESSAGE_USAGE).append("\n\n");
-        HELP_STRING.append("clear: ").append("Clears the records of Expenditure Expert").append("\n\n");
-        HELP_STRING.append(DeleteCommand.MESSAGE_USAGE).append("\n\n");
-        HELP_STRING.append(EditCommand.MESSAGE_USAGE).append("\n\n");
-        HELP_STRING.append("exit: ").append("Exits the app").append("\n\n");
-        HELP_STRING.append(FindCommand.MESSAGE_USAGE).append("\n\n");
-        HELP_STRING.append("list: ").append("Lists all expenses").append("\n\n");
+        HELP_STRING.append(HelpWindow.HELP_MESSAGE).append(Command.COMMAND).append(AddCommand.MESSAGE_USAGE)
+                .append(ClearCommand.HELP_COMMAND).append(DeleteCommand.MESSAGE_USAGE)
+                .append(EditCommand.MESSAGE_USAGE).append(ExitCommand.HELP_COMMAND)
+                .append(FindCommand.MESSAGE_USAGE).append(ListCommand.HELP_COMMAND);
         return HELP_STRING.toString();
     }
 

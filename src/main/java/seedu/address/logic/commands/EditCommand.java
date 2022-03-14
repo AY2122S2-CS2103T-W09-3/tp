@@ -36,7 +36,7 @@ public class EditCommand extends Command {
             + "[" + PREFIX_AMOUNT + "AMOUNT] \n"
             + "Example: " + COMMAND_WORD + " 1 "
             + PREFIX_DESCRIPTION + "Groceries from ShengShiong "
-            + PREFIX_AMOUNT + "120";
+            + PREFIX_AMOUNT + "120\n\n";
 
     public static final String MESSAGE_EDIT_EXPENSE_SUCCESS = "Edited Expense: %1$s";
     public static final String MESSAGE_NOT_EDITED = "At least one field to edit must be provided.";
