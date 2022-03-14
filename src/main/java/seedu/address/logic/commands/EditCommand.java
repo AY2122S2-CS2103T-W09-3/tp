@@ -28,14 +28,14 @@ public class EditCommand extends Command {
     public static final String COMMAND_WORD = "edit";
 
     public static final String MESSAGE_USAGE = COMMAND_WORD + ": Edits the details of the expense identified "
-            + "by the index number used in the displayed expense list. "
+            + "by the index number used in the displayed expense list. \n"
             + "Existing values will be overwritten by the input values.\n"
             + "Parameters: INDEX (must be a positive integer) "
             + "[" + PREFIX_DESCRIPTION + "DESCRIPTION] "
             + "[" + PREFIX_EXPENSE_CATEGORY + "CATEGORY] "
             + "[" + PREFIX_AMOUNT + "AMOUNT] \n"
             + "Example: " + COMMAND_WORD + " 1 "
-            + PREFIX_DESCRIPTION + "Grocies from ShengShiong "
+            + PREFIX_DESCRIPTION + "Groceries from ShengShiong "
             + PREFIX_AMOUNT + "120";
 
     public static final String MESSAGE_EDIT_EXPENSE_SUCCESS = "Edited Expense: %1$s";
