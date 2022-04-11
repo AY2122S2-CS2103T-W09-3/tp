@@ -85,7 +85,7 @@ Expense Expert is a **desktop app for keeping track of your expenses, and managi
 
 <div markdown="block" class="alert alert-info">
 
-**information source: Notes about the command format:**<br>
+**Information source: Notes about the command format:**<br>
 
 - Words in `UPPER_CASE` are the parameters to be supplied by the user.<br>
   e.g. in `d/DESCRIPTION`, `DESCRIPTION` is a parameter which can be used as `d/Dinner at ECP`.
