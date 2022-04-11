@@ -10,25 +10,25 @@ Expense Expert is a **desktop app for keeping track of your expenses, and managi
 - [Quick Start](#quick-start)
 - [Breakdown of the UI](#breakdown-of-the-ui)
 - [Features](#features)
-  - [Commands](#commands)
-    - [Viewing help: ](#viewing-help--help) `help`
-    - [Adding an expense: ](#adding-an-expense--add) `add`
-    - [Deleting an expense: ](#deleting-an-expense--delete) `delete`
-    - [Editing an expense: ](#editing-an-expense--edit) `edit`
-    - [Listing all expenses: ](#listing-all-expenses--list) `list`
-    - [Filtering expense(s): ](#filtering-expenses-filter) `filter`
-    - [Finding expense(s): ](#finding-expenses-find) `find`
-    - [Setting a monthly budget: ](#setting-a-monthly-budget-budget) `budget`
-    - [Adding an Expense Category: ](#adding-an-expense-category-addcat) `addCat`
-    - [Listing all Expense Categories: ](#listing-all-expense-categories-listcat) `listCat`
-    - [Adding a person who owes you money: ](#adding-a-person-who-owes-you-money-person) `person`
-    - [Removing a person who has paid the owed money: ](#removing-a-person-who-has-paid-the-owed-money-paid) `paid`
-    - [Updating the amount a person owes you: ](#updating-the-amount-a-person-owes-you-update) `update`
-    - [Clearing the program data: ](#clearing-the-program-data--clear) `clear`
-    - [Exiting the program: ](#exiting-the-program--exit) `exit`
-  - [Storage](#storage)
-    - [Saving the data](#saving-the-data)
-    - [Editing the data file](#editing-the-data-file)
+    - [Commands](#commands)
+        - [Viewing help: ](#viewing-help--help) `help`
+        - [Adding an expense: ](#adding-an-expense--add) `add`
+        - [Deleting an expense: ](#deleting-an-expense--delete) `delete`
+        - [Editing an expense: ](#editing-an-expense--edit) `edit`
+        - [Listing all expenses: ](#listing-all-expenses--list) `list`
+        - [Filtering expense(s): ](#filtering-expenses-filter) `filter`
+        - [Finding expense(s): ](#finding-expenses-find) `find`
+        - [Setting a monthly budget: ](#setting-a-monthly-budget-budget) `budget`
+        - [Adding an Expense Category: ](#adding-an-expense-category-addcat) `addCat`
+        - [Listing all Expense Categories: ](#listing-all-expense-categories-listcat) `listCat`
+        - [Adding a person who owes you money: ](#adding-a-person-who-owes-you-money-person) `person`
+        - [Removing a person who has paid the owed money: ](#removing-a-person-who-has-paid-the-owed-money-paid) `paid`
+        - [Updating the amount a person owes you: ](#updating-the-amount-a-person-owes-you-update) `update`
+        - [Clearing the program data: ](#clearing-the-program-data--clear) `clear`
+        - [Exiting the program: ](#exiting-the-program--exit) `exit`
+    - [Storage](#storage)
+        - [Saving the data](#saving-the-data)
+        - [Editing the data file](#editing-the-data-file)
 - [FAQ](#faq)
 - [Command summary](#command-summary)
 
@@ -43,6 +43,7 @@ Expense Expert is a **desktop app for keeping track of your expenses, and managi
 3. Copy the file to the folder you want to use as the _home folder_ for your Expense Expert.
 
 4. Double-click the file to start the app. The GUI similar to the below should appear in a few seconds. 
+   
 5. The data used here is for demonstration purposes. When you launch ExpenseExpert for the first time, it is not preloaded with any data.<br>
    ![Ui](images/Ui.png)
 
