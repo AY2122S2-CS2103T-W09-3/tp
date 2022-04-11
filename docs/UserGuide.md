@@ -78,12 +78,14 @@ Expense Expert is a **desktop app for keeping track of your expenses, and managi
 6. **Person List**: List of people who owe the user the said sum of money.
 
 ---
+<br>  
+<br>  
 
 ## Features
 
 <div markdown="block" class="alert alert-info">
 
-**information_source: Notes about the command format:**<br>
+**information source: Notes about the command format:**<br>
 
 - Words in `UPPER_CASE` are the parameters to be supplied by the user.<br>
   e.g. in `d/DESCRIPTION`, `DESCRIPTION` is a parameter which can be used as `d/Dinner at ECP`.
