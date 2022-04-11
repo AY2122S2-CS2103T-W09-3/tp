@@ -25,6 +25,7 @@ Given below are my contributions to the project.
 
   - Set up Tp Organization and handled getting the project off the ground.
   - Managed releases `v0.1` - `v1.2` (3 releases) on GitHub.
+  - Ensured that deliverable requirements are met 
 
 - **Documentation**:
 
@@ -36,9 +37,13 @@ Given below are my contributions to the project.
     - Updated class diagrams
       - Model
       - UI
+    - Added Sequence diagrams ([#194](https://github.com/AY2122S2-CS2103T-W09-3/tp/pull/194))
+      - addCat 
+      - listCat
     - Use cases ([#177](https://github.com/AY2122S2-CS2103T-W09-3/tp/pull/177)):
       - UC04 Expense Categories
     - User stories ([#177](https://github.com/AY2122S2-CS2103T-W09-3/tp/pull/177))
+      - Contributed significant number of user stories
   
 - **Community**:
 
